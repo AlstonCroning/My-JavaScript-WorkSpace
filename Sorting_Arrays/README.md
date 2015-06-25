@@ -4,9 +4,8 @@ This example demonstrates how to sort two different arrays into a single array w
 Language:	
 Javascript	
 
-How to run Locally:	
-Open with the Web browser	
-Needs JavaScript Enabled	
-
-Output:	
+Output: 	
 Outputs to the Javascript console
+
+How to run Locally:	  
+Open with the Web browser, and makesure JavaScript is Enabled
