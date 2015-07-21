@@ -1,2 +1,2 @@
-# My-JavaScript-WorkSpace
-only for my own practical experience with Git version control
+# My-JavaScript-WorkSpace 
+Learning JavaScript with Examples
